@@ -23,5 +23,3 @@ for y in three:
     new = new.replace(y,"X")
 
 print(new)
-
-
